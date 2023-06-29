@@ -1,4 +1,4 @@
-# -Credit-risk-modelling-ML-development:
+# Credit-risk-modelling-ML-development:
 We will use machine learning model to predict defaulting behavior of Customers applying for a loan. The main purpose of this project is to demonstrate the use of sci-kit learn and understand concepts behind machine learning algorithms. We will be taking the following steps:
 
 1.Data Collection
